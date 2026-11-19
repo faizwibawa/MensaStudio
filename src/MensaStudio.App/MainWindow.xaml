@@ -1,0 +1,17 @@
+<Window x:Class="MensaStudio.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MensaStudio"
+        Width="1280"
+        Height="800"
+        Background="Black"
+        WindowStartupLocation="CenterScreen">
+    <!-- Placeholder; the viewer, overlay, status bar and legend are added in a later task. -->
+    <Grid>
+        <TextBlock HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Foreground="Gainsboro"
+                   FontSize="16"
+                   Text="Press Ctrl+O to open a folder" />
+    </Grid>
+</Window>

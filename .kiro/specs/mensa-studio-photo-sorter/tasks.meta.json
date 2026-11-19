@@ -1,0 +1,553 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create solution and project files": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914090143
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914104383
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792925826885
+      }
+    ],
+    "1.2 Implement the file system abstraction and typed exceptions": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092056
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792925835565
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926496647
+      }
+    ],
+    "1.3 Create the in-memory file system fake and shared generators": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092179
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006460016
+      }
+    ],
+    "2.1 Implement `NaturalSortComparer`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092323
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792925836760
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926497625
+      }
+    ],
+    "3.1 Implement `FileKinds`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092404
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792925837558
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926498442
+      }
+    ],
+    "3.3 Implement `ScannedPhoto`, `ScanResult` and `SidecarMatcher.Match`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092474
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006461406
+      },
+      {
+        "executionId": "c5ad4bb9-550f-4efd-adcf-2f31c5578e98",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793008685209
+      }
+    ],
+    "3.5 Implement `FolderScanner` and `UnsureFolderResolver`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092544
+      }
+    ],
+    "4.1 Implement `RatingExtraction` and `RatingPrefixCodec`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092634
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792925838755
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926499633
+      }
+    ],
+    "5. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092735
+      }
+    ],
+    "6.1 Implement `PhotoEntry`, `Session`, `SessionSnapshot` and `SessionStatistics`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092802
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926512679
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006271837
+      }
+    ],
+    "6.3 Implement `Navigation`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092870
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006462362
+      },
+      {
+        "executionId": "c5ad4bb9-550f-4efd-adcf-2f31c5578e98",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793008686487
+      }
+    ],
+    "6.6 Implement `FolderMapping`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914092949
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792925839792
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926500667
+      }
+    ],
+    "6.7 Implement `StatusFormatter`, `OverlayFormatter` and `LegendFormatter`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093041
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006463771
+      },
+      {
+        "executionId": "c5ad4bb9-550f-4efd-adcf-2f31c5578e98",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793008683762
+      }
+    ],
+    "6.11 Implement `SessionCommands` (thin Core helper used by `MainViewModel`)": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093113
+      }
+    ],
+    "7.1 Implement `InputKey`, `Modifiers`, `UiMode`, `Command` and `KeyCommandMapper.Map`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093183
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926513897
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006274519
+      }
+    ],
+    "7.2 Implement `ShortcutInfo` and `ShortcutCatalog.All`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093343
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006465047
+      },
+      {
+        "executionId": "c5ad4bb9-550f-4efd-adcf-2f31c5578e98",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793008687961
+      }
+    ],
+    "8.1 Implement `SessionRecord`, `SessionRecordSet` and `SessionFilePrinter`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093417
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926515079
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006276066
+      }
+    ],
+    "8.2 Implement `SkipReason`, `SkippedLine`, `SessionParseResult` and `SessionFileParser`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093486
+      }
+    ],
+    "9. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093556
+      }
+    ],
+    "10.1 Implement `MergeResult` and `SessionMerger.Merge`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093623
+      }
+    ],
+    "11.1 Implement `SessionStore`, `SaveOutcome` and `SaveStatus`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093692
+      }
+    ],
+    "12.1 Implement `PreloadWindow.Compute`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093762
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926516287
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006276434
+      }
+    ],
+    "12.3 Implement `LruCache<TKey, TValue>`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093843
+      },
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926517327
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006292678
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006301252
+      }
+    ],
+    "12.5 Implement `PreloadPlan` and `PreloadScheduler.Plan`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914093943
+      }
+    ],
+    "13.1 Implement `ExifOrientation` and `DecodeSizeCalculator`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094009
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006320468
+      },
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006452217
+      }
+    ],
+    "14.1 Implement `FolderNameRule` and `FolderNameValidator`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094076
+      }
+    ],
+    "14.3 Implement `SettingsLoadResult` and `SettingsStore`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094146
+      }
+    ],
+    "15. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094213
+      }
+    ],
+    "16.1 Implement plan types, `FolderSnapshot` and `ApplySnapshotReader`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094285
+      }
+    ],
+    "16.2 Implement `ApplyPlanner.Plan`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094375
+      }
+    ],
+    "16.7 Implement `ApplyPlanSummary` and `ApplyPlanSummarizer`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094480
+      }
+    ],
+    "17.1 Implement `ApplyLogEntry`, `ApplyLogFormatter` and the `IApplyLogWriter` implementation": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094547
+      }
+    ],
+    "17.2 Implement `ApplyExecutor.ExecuteAsync` and result types": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094614
+      }
+    ],
+    "18.1 Implement `PostApplySessionBuilder.Build`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094681
+      }
+    ],
+    "19. Checkpoint - Core complete, ensure all tests pass": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094749
+      }
+    ],
+    "20.1 Implement `MainWindow` layout and `KeyRouter`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094820
+      }
+    ],
+    "20.2 Implement App services": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094890
+      }
+    ],
+    "20.3 Implement `MainViewModel` core and composition root": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914094964
+      }
+    ],
+    "21.1 Implement Open Folder and Open Unsure flows in `MainViewModel`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095037
+      }
+    ],
+    "21.2 Implement window close handling and unhandled-exception safety": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095105
+      }
+    ],
+    "22.1 Implement `ImageLoader` and `ImageDecodeException`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095185
+      }
+    ],
+    "22.2 Implement `PreloadCache` and Viewer states": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095287
+      }
+    ],
+    "23.1 Implement `HelpOverlay` view and toggle logic": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095356
+      }
+    ],
+    "24.1 Implement `ApplyPreviewDialog` and `ApplyResultDialog`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095424
+      }
+    ],
+    "24.2 Wire the apply flow into `MainViewModel`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095496
+      }
+    ],
+    "25.1 Implement `SettingsDialog` and its view model": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095565
+      }
+    ],
+    "25.2 Wire Ctrl+, to the settings dialog in `MainViewModel`": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095635
+      }
+    ],
+    "26. Checkpoint - App builds and tests pass": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095704
+      }
+    ],
+    "27.1 Create the `win-x64` publish profile": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095772
+      }
+    ],
+    "28. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792914095844
+      }
+    ],
+    "2. Implement natural sort ordering": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926497732
+      }
+    ],
+    "4. Implement the rating prefix codec": [
+      {
+        "executionId": "e8c564af-0466-49f6-8732-e0fdc7cb718a",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1792926499711
+      }
+    ],
+    "13. Implement decode sizing and EXIF orientation": [
+      {
+        "executionId": "7e7f751b-cd3f-4373-8200-bdaeaeb2c074",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793006452370
+      }
+    ],
+    "7. Implement key mapping and the shortcut catalog": [
+      {
+        "executionId": "c5ad4bb9-550f-4efd-adcf-2f31c5578e98",
+        "chatSessionId": "sess_3068bed5-14ba-4692-a4df-3d9c77967bda",
+        "timestamp": 1793008688098
+      }
+    ]
+  }
+}
